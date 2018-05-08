@@ -4,4 +4,4 @@
 
 ## bamazonCustomer
 
-![Screenshot](bamazonCustomer.png)
+![Screenshot](./bamazonCustomer.png)
